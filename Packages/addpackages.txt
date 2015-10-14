@@ -1,0 +1,5 @@
+GooglePlayGames.bundle
+GooglePlayGames.framework
+GoogleOpenSource.framework
+GooglePlus.bundle
+GooglePlus.framework

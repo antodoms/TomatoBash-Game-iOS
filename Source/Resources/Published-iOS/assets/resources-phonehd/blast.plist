@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>assets/blast/bub1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{569, 283}, {172, 170}}</string>
+			<key>offset</key>
+			<string>{11, 16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{125, 99}, {172, 170}}</string>
+			<key>sourceSize</key>
+			<string>{400, 400}</string>
+		</dict>
+		<key>assets/blast/bub2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 283}, {234, 206}}</string>
+			<key>offset</key>
+			<string>{14, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{97, 84}, {234, 206}}</string>
+			<key>sourceSize</key>
+			<string>{400, 400}</string>
+		</dict>
+		<key>assets/blast/bub3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 1}, {280, 242}}</string>
+			<key>offset</key>
+			<string>{2, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{62, 80}, {280, 242}}</string>
+			<key>sourceSize</key>
+			<string>{400, 400}</string>
+		</dict>
+		<key>assets/blast/bub4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {344, 330}}</string>
+			<key>offset</key>
+			<string>{7, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{35, 32}, {344, 330}}</string>
+			<key>sourceSize</key>
+			<string>{400, 400}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>textureFileName</key>
+		<string>blast.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+GoogleOpenSource.framework
+GooglePlus.bundle
+GooglePlus.framework
+
+
+cocos2d-iphone -> package
